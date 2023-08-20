@@ -1,11 +1,11 @@
 [Desktop Entry]
 Encoding=UTF-8
-Version=1.2
+Version=1.2.0
 Type=Application
 Name=Lyrebird
 GenericName=Voice Changer
-Icon=${SHARE_PATH}/icon.png
-Exec=${BIN_PATH}/lyrebird
-Path=${SHARE_PATH}/
+Icon=/usr/share/lyrebird/icon.png
+Exec=/usr/bin/lyrebird
+Path=/usr/share/lyrebird/
 Terminal=false
 Categories=AudioVideo;Audio;

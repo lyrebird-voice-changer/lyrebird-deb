@@ -12,7 +12,7 @@ The code in this repo is only updated on every release, to find development buil
 
 ## Build
 
-  1. Copy the essential files from the main Lyrebird repo to `lyrebird/usr/share/lyrebird
+  1. Copy the essential files from the main Lyrebird repo to `lyrebird/usr/share/lyrebird`
   2. Read the Files section and ensure all version numbers have been updated.
   3. Place the main repo code (cleanup needed) in `lyrebird/usr/share/lyrebird`.
   4. Run `build.sh`, `lyrebird.deb` will be built.
