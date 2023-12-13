@@ -4,6 +4,12 @@ Debian package environment for [Lyrebird voice changer](https://github.com/lyreb
 
 The code in this repo is only updated on every release, to find development builds of Lyrebird see the [original repo](https://github.com/lyrebird/lyrebird-voice-changer).
 
+## Archived
+
+As of December 2023, Lyrebird has ceased development and is now archived. Thank you to our users and contributors.
+
+As an alternative, we recommend looking at [Easy Effects](https://github.com/wwmm/easyeffects).
+
 ## Files
 
   * `lyrebird/usr/bin/lyrebird` - Bootstrap script that launches `share/lyrebird/app.py`, does not need to be modified across versions.
